@@ -1,6 +1,6 @@
 # Python Algorithm Classification Dataset (PACD)
 
-The Python Algorithm Classification Dataset (PACD) is a collection of algorithm implementations sourced from publicly available GitHub Gists. Each algorithm is human reviewed and categorized by type (i.e "bubble sort", "sieve of Eratosthenes" etc), and the dataset covers 3 unique problems (sorting, primality testing, search). The dataset is designed for benchmarking code classification, code quality analysis, and machine learning models focused on algorithm identification. The compilation of this dataset focused on several key methodologies:
+The Python Algorithm Classification Dataset (PACD) is a collection of 330 algorithm implementations sourced from publicly available GitHub Gists. Each algorithm is human reviewed and categorized by type (i.e "bubble sort", "sieve of Eratosthenes" etc), and the dataset covers 3 unique problems (sorting, primality testing, search). The dataset is designed for benchmarking code classification, code quality analysis, and machine learning models focused on algorithm identification. The compilation of this dataset focused on several key methodologies:
 
 (1) All algorithms are either completly isolated functions or utilize Python's built-in libraries such as math or random
 
